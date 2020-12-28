@@ -1,6 +1,6 @@
 import {
   IAgoraRTCRemoteUser,
-  ICameraVideoTrack,
+  // ICameraVideoTrack,
   IRemoteTrack,
 } from "agora-rtc-sdk-ng";
 import React, { useCallback, useContext, useEffect, useState } from "react";
